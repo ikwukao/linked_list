@@ -172,3 +172,7 @@ Created as part of a Python Data Structures learning journey and freeCodeCamp co
 ## License
 
 This project is available for educational and personal use.
+
+## Program Output Image
+
+![Linked List Program Output](./img/linked_list.png)
